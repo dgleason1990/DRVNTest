@@ -1,44 +1,87 @@
 NAME,PARTY,PRESIDENTIAL TERM,PRESIDENT NUMBER,INGESTION TIME
-dralliM Fillmore,W,January 20 1850,13,20/5/2019
-drofrehtuR Hayes,R,January 20 1877,19,20/5/2019
-maharbA Lincoln,R,January 20 1861,16,20/5/2019
-mailliW H. Harrison,W,January 20 1841,9,20/5/2019
-mailliW McKinley,R,January 20 1897,25,20/5/2019
-nhoJ Quincy Adams,DR,January 20 1825,6,20/5/2019
-nhoJ Tyler,W,January 20 1841,10,20/5/2019
-nilknarF Pierce,D,January 20 1853,14,20/5/2019
-nimajneB Harrison,R,January 20 1889,23,20/5/2019
-nitraM van Buren,D,January 20 1837,8,20/5/2019
-retsehC Arthur,R,January 20 1881,21,20/5/2019
-revorG Cleveland,D,January 20 1885,22,20/5/2019
-revorG Cleveland,D,January 20 1893,24,20/5/2019
-samohT Jefferson,DR,January 20 1801,3,20/5/2019
-semaJ Buchanan,D,January 20 1857,15,20/5/2019
-semaJ Garfield,R,January 20 1881,20,20/5/2019
-semaJ K. Polk,D,January 20 1845,11,20/5/2019
-semaJ Madison,DR,January 20 1809,4,20/5/2019
-semaJ Monroe,DR,January 20 1817,5,20/5/2019
-sessylU S. Grant,R,January 20 1869,18,20/5/2019
-werdnA Jackson,D,January 20 1829,7,20/5/2019
-werdnA Johnson,NU,January 20 1865,17,20/5/2019
-yrahcaZ Taylor,W,January 20 1849,12,20/5/2019
-dlanoR Wilson Reagan,R,January 20 1981,40,20/5/2019
-dlareG R. Ford,R,January 20 1974,38,20/5/2019
-drahciR Milhous Nixon,R,January 20 1969,37,20/5/2019
-egroeG H. W.,R,January 20 1989,41,20/5/2019
-erodoehT Roosevelt,R,January 20 1901,26,20/5/2019
-lliB Clinton,D,January 20 1993,42,20/5/2019
-mailliW Taft,R,January 20 1909,27,20/5/2019
-nerraW Harding,R,January 20 1921,29,20/5/2019
-nhoJ Fitzgerald Kennedy,D,January 20 1961,35,20/5/2019
-nilknarF Delano Roosevelt,D,January 20 1933,32,20/5/2019
-nivlaC Coolidge,R,January 20 1923,30,20/5/2019
-nodnyL Baines Johnson,D,January 20 1963,36,20/5/2019
-thgiwD David Eisenhower,R,January 20 1953,34,20/5/2019
-trebreH C. Hoover,R,January 20 1929,31,20/5/2019
-wordooW Wilson,D,January 20 1913,28,20/5/2019
-ymmiJ Carter,D,January 20 1977,39,20/5/2019
-yrraH S Truman,D,January 20 1945,33,20/5/2019
-dlanoD Trump,R,January 20 2017,45,20/5/2019
-egroeG W. Bush,R,January 20 2001,43,20/5/2019
-kcaraB Obama,D,January 20 2009,44,20/5/2019
+dralliM Fillmore,W,January 20 1850,13,21/5/2019
+drofrehtuR Hayes,R,January 20 1877,19,21/5/2019
+maharbA Lincoln,R,January 20 1861,16,21/5/2019
+mailliW H. Harrison,W,January 20 1841,9,21/5/2019
+mailliW McKinley,R,January 20 1897,25,21/5/2019
+nhoJ Quincy Adams,DR,January 20 1825,6,21/5/2019
+nhoJ Tyler,W,January 20 1841,10,21/5/2019
+nilknarF Pierce,D,January 20 1853,14,21/5/2019
+nimajneB Harrison,R,January 20 1889,23,21/5/2019
+nitraM van Buren,D,January 20 1837,8,21/5/2019
+retsehC Arthur,R,January 20 1881,21,21/5/2019
+revorG Cleveland,D,January 20 1885,22,21/5/2019
+revorG Cleveland,D,January 20 1893,24,21/5/2019
+samohT Jefferson,DR,January 20 1801,3,21/5/2019
+semaJ Buchanan,D,January 20 1857,15,21/5/2019
+semaJ Garfield,R,January 20 1881,20,21/5/2019
+semaJ K. Polk,D,January 20 1845,11,21/5/2019
+semaJ Madison,DR,January 20 1809,4,21/5/2019
+semaJ Monroe,DR,January 20 1817,5,21/5/2019
+sessylU S. Grant,R,January 20 1869,18,21/5/2019
+werdnA Jackson,D,January 20 1829,7,21/5/2019
+werdnA Johnson,NU,January 20 1865,17,21/5/2019
+yrahcaZ Taylor,W,January 20 1849,12,21/5/2019
+dlanoR Wilson Reagan,R,January 20 1981,40,21/5/2019
+dlareG R. Ford,R,January 20 1974,38,21/5/2019
+drahciR Milhous Nixon,R,January 20 1969,37,21/5/2019
+egroeG H. W.,R,January 20 1989,41,21/5/2019
+erodoehT Roosevelt,R,January 20 1901,26,21/5/2019
+lliB Clinton,D,January 20 1993,42,21/5/2019
+mailliW Taft,R,January 20 1909,27,21/5/2019
+nerraW Harding,R,January 20 1921,29,21/5/2019
+nhoJ Fitzgerald Kennedy,D,January 20 1961,35,21/5/2019
+nilknarF Delano Roosevelt,D,January 20 1933,32,21/5/2019
+nivlaC Coolidge,R,January 20 1923,30,21/5/2019
+nodnyL Baines Johnson,D,January 20 1963,36,21/5/2019
+thgiwD David Eisenhower,R,January 20 1953,34,21/5/2019
+trebreH C. Hoover,R,January 20 1929,31,21/5/2019
+wordooW Wilson,D,January 20 1913,28,21/5/2019
+ymmiJ Carter,D,January 20 1977,39,21/5/2019
+yrraH S Truman,D,January 20 1945,33,21/5/2019
+dlanoD Trump,R,January 20 2017,45,21/5/2019
+egroeG W. Bush,R,January 20 2001,43,21/5/2019
+kcaraB Obama,D,January 20 2009,44,21/5/2019
+dralliM Fillmore,W,January 20 1850,13,21/5/2019
+drofrehtuR Hayes,R,January 20 1877,19,21/5/2019
+maharbA Lincoln,R,January 20 1861,16,21/5/2019
+mailliW H. Harrison,W,January 20 1841,9,21/5/2019
+mailliW McKinley,R,January 20 1897,25,21/5/2019
+nhoJ Quincy Adams,DR,January 20 1825,6,21/5/2019
+nhoJ Tyler,W,January 20 1841,10,21/5/2019
+nilknarF Pierce,D,January 20 1853,14,21/5/2019
+nimajneB Harrison,R,January 20 1889,23,21/5/2019
+nitraM van Buren,D,January 20 1837,8,21/5/2019
+retsehC Arthur,R,January 20 1881,21,21/5/2019
+revorG Cleveland,D,January 20 1885,22,21/5/2019
+revorG Cleveland,D,January 20 1893,24,21/5/2019
+samohT Jefferson,DR,January 20 1801,3,21/5/2019
+semaJ Buchanan,D,January 20 1857,15,21/5/2019
+semaJ Garfield,R,January 20 1881,20,21/5/2019
+semaJ K. Polk,D,January 20 1845,11,21/5/2019
+semaJ Madison,DR,January 20 1809,4,21/5/2019
+semaJ Monroe,DR,January 20 1817,5,21/5/2019
+sessylU S. Grant,R,January 20 1869,18,21/5/2019
+werdnA Jackson,D,January 20 1829,7,21/5/2019
+werdnA Johnson,NU,January 20 1865,17,21/5/2019
+yrahcaZ Taylor,W,January 20 1849,12,21/5/2019
+dlanoR Wilson Reagan,R,January 20 1981,40,21/5/2019
+dlareG R. Ford,R,January 20 1974,38,21/5/2019
+drahciR Milhous Nixon,R,January 20 1969,37,21/5/2019
+egroeG H. W.,R,January 20 1989,41,21/5/2019
+erodoehT Roosevelt,R,January 20 1901,26,21/5/2019
+lliB Clinton,D,January 20 1993,42,21/5/2019
+mailliW Taft,R,January 20 1909,27,21/5/2019
+nerraW Harding,R,January 20 1921,29,21/5/2019
+nhoJ Fitzgerald Kennedy,D,January 20 1961,35,21/5/2019
+nilknarF Delano Roosevelt,D,January 20 1933,32,21/5/2019
+nivlaC Coolidge,R,January 20 1923,30,21/5/2019
+nodnyL Baines Johnson,D,January 20 1963,36,21/5/2019
+thgiwD David Eisenhower,R,January 20 1953,34,21/5/2019
+trebreH C. Hoover,R,January 20 1929,31,21/5/2019
+wordooW Wilson,D,January 20 1913,28,21/5/2019
+ymmiJ Carter,D,January 20 1977,39,21/5/2019
+yrraH S Truman,D,January 20 1945,33,21/5/2019
+dlanoD Trump,R,January 20 2017,45,21/5/2019
+egroeG W. Bush,R,January 20 2001,43,21/5/2019
+kcaraB Obama,D,January 20 2009,44,21/5/2019

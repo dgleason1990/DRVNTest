@@ -17,14 +17,13 @@ const csvWriter = createCsvWriter({
 router.post('/', (req, res, next) => {
   const request = JSON.parse(req.body.submission)
 
-  console.log('request recieved')
   let newRecord = []
  
   const filteredFederalists = request.filter((data)=>{ 
       return !data.pp.includes('Federalist')
       })
 
-  filteredFederalists.map((data)=>{
+  filteredFederalists.forEach((data)=>{
       const backwardsName = data.nm.split(' ')[0].split('').reverse().join('') + ' ' + data.nm.split(' ')[1] + (data.nm.split(' ')[2] === undefined ? '' : ' ' + data.nm.split(' ')[2])
 
       const partyAcronym = data.pp === 'Democratic-Republican' ? 'DR' : data.pp === 'Democrat' 
